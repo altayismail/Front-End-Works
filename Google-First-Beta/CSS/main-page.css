@@ -1,0 +1,59 @@
+.nav-center
+{
+    text-align: -webkit-center;
+}
+
+.div1
+{
+    background-color: rgb(223, 221, 221);
+    display: block;
+    width: 85%;
+    text-align: -webkit-center;
+    margin-top: 0;
+    margin: auto;
+    margin-bottom: 3px;
+}
+
+.div2
+{
+    background-color: rgb(126, 229, 218);
+    display: block;
+    text-align: -webkit-center;
+    float: left;
+    width: 32%;
+    height: 66px;
+    margin-right: 2px;
+    padding-top: 10px ;
+    margin-left: 107px;
+}
+
+.div3
+{
+    background-color: rgb(112, 204, 194);
+    display: block;
+    text-align: -webkit-center;
+    float: left;
+    width: 20.7%;
+    height: 68px;
+    margin-right: 2px;
+    font-size: 13px;
+    padding-top: 8px;
+}
+
+.div4
+{
+    background-color: rgb(84, 180, 169);
+    float: left;
+    display: block;
+    text-align: -webkit-center;
+    width: 32%;
+    height: 76px;
+    font-size: 14px;
+}
+
+.p-last
+{
+    text-align: center;
+    clear: left;
+    margin-top: 5px;
+}
